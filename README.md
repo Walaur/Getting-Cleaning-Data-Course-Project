@@ -9,9 +9,10 @@ A script (named run_analysis.R) was produced to read and organize the data using
 4. Generate a tidy dataset where the average of each variable for each subject and each activity was obtained.
 The final result is a file named `tidydata.txt`
 
-Files
-CodeBook.md. describes all the variables and summaries calculated.
+# Files
 
-run_analysis.R contains the script for doing the course project.
+`CodeBook.md` describes all the variables and summaries calculated.
 
-tidydata.txt is the generated file when running the script run_analysis.R, which contains the the average of each variable for each subject and each activity of the original data.
+`run_analysis.R` contains the script for doing the course project.
+
+`tidydata.txt` is the generated file when running the script run_analysis.R, which contains the the average of each variable for each subject and each activity of the original data.
