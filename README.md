@@ -2,7 +2,7 @@
 
 The objective of this project is to prepare tidy data to be processed later. The database that was used for this project is the UCI HAR Dataset available on the following link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-A script (named run_analysis.R) was produced to read and organize the data using the following steps:
+A script (named `run_analysis.R`) was produced to read and organize the data using the following steps:
 1. Read train and test datasets with their respective activity and subjects.
 2. Merge both datasets and apply descriptive names.
 3. Extract only the data containing means (mean) and standard deviations (std)
